@@ -1,0 +1,33 @@
+1. Software Requirements
+	-Python ≥ 3.8
+	-Jupyter Notebook (for running .ipynb files)
+	-Git (optional, for cloning the repo)
+
+2.Python Libraries
+	-pandas
+	-numpy
+	-scikit-learn
+	-pickle-mixin
+	-jupyter
+
+  ====Explanation====
+	-pandas → data loading & manipulation
+	-numpy → numerical operations
+	-scikit-learn → TF-IDF vectorization & logistic regression
+	-nltk → text preprocessing (stopwords, stemming, tokenization)
+	-pickle-mixin → saving & loading trained models
+	-jupyter → running the notebooks
+
+3.Dataset Requirements
+	-Custom dataset (own collected emails)
+	-Kaggle spam dataset 
+
+4.Hardware Requirements
+	-Minimum:
+	   -CPU: Dual-core processor
+	   -RAM: 4 GB
+ 	   -Storage: ~500 MB free space
+	-Recommended:
+	   -CPU: Quad-core or better
+           -RAM: 8 GB (for faster training)
+
